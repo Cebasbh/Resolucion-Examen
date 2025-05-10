@@ -4,6 +4,10 @@
  */
 package exámen;
 
+/**
+ *
+ * @author sebas
+ */
 public class Ejercicio_Java_4 {
 
     public static void main(String[] args) {
