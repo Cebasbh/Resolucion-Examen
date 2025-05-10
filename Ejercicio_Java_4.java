@@ -9,7 +9,6 @@ public class Ejercicio_Java_4 {
     public static void main(String[] args) {
         String[] lista = {"a", "b", "d", "f", "a"};
         
-        // Arreglos para almacenar letras únicas y sus cantidades
         String[] letras = new String[lista.length];
         int[] cantidades = new int[lista.length];
         int totalUnicas = 0;
