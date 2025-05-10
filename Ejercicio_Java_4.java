@@ -10,6 +10,9 @@ package exámen;
  */
 public class Ejercicio_Java_4 {
 
+/**
+ * @param args the command line arguments
+ */
     public static void main(String[] args) {
         String[] lista = {"a", "b", "d", "f", "a"};
         
